@@ -4,20 +4,24 @@
     <item
         android:id="@+id/search"
         android:icon="@drawable/baseline_search_24"
-        android:title="Search"/>
+        android:title="Search"
+        />
 
     <item
         android:id="@+id/recent"
         android:icon="@drawable/baseline_access_time_filled_24"
-        android:title="Recent Search"/>
+        android:title="Recent Search"
+        />
 
     <item
         android:id="@+id/favorites"
         android:icon="@drawable/baseline_star_24"
-        android:title="Favorites"/>
+        android:title="Favorites"
+        />
 
     <item
         android:id="@+id/settings"
         android:icon="@drawable/baseline_settings_24"
-        android:title="Settings"/>
+        android:title="Settings"
+        />
 </menu>
